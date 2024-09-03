@@ -1,3 +1,5 @@
+Term Deposit Marketing (Finance and Banking):
+
 **Background**
 
 In this project, a Machine Learning algorithm has been developed to predict if a bank's customer will subscribe to their term deposit offer or not. The prediction model used the bank's call center data of 40000 calls made to the customers and made predictions on the likelihood of customers to opt for the term deposit depending on different variables like the customer's age, job, balance etc. 
